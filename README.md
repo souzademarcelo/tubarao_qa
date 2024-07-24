@@ -1,1 +1,1 @@
-# tubarao_qa
+Exercício para a Bacia do rio Tubarão - SC
